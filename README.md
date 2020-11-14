@@ -1,7 +1,7 @@
 # concrete-compressive-strength-prediction
-<img src="https://github.com/UrielV1/concrete-compressive-strength-prediction/blob/main/concrete1.png" alt="https://github.com/UrielV1/concrete-compressive-strength-prediction/blob/main/concrete1.png" width="500"/>
+<img src="https://github.com/UrielV1/concrete-compressive-strength-prediction/blob/main/concrete1.png" alt="https://github.com/UrielV1/concrete-compressive-strength-prediction/blob/main/concrete1.png" width="400"/>
 
-##     [Spray-Lock, Concrete Protection](https://www.concreteprotection.com/tech_briefs/concrete-curing.php)
+## [Spray-Lock, Concrete Protection](https://www.concreteprotection.com/tech_briefs/concrete-curing.php)
 
 
 
