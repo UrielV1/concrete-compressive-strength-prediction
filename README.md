@@ -10,4 +10,4 @@ Predicting concrete compressive strength given its components
 - Main features: cement, superplasticizer, age         
 - Data exploration & Data visualization were executed
 - ANN, Random forest, KNN and Gradient boosting models were used
-- The best score was 0.91 using ANN model 
+- The best score was 0.91 using ANN sequential model 
