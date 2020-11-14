@@ -6,10 +6,8 @@ https://www.concreteprotection.com/tech_briefs/concrete-curing.php
 Predicting concrete compressive strength given its components
 
 ## Project description
-- A dataset of 11,330 records and 18 features is given
-- Main features: finishedsqft, bathrooms, zindexvalue         
+- A dataset of 1030 records and 9 features is given
+- Main features: cement, superplasticizer, age         
 - Data exploration & Data visualization were executed
-- The 71 neighborhoods were clustered using it's frequency and mean price
-- Linear regression, Random forest, KNN and Gradient boosting models were used
-- Columns were iterated in order to find the best combination
-- The best score was 0.70 using Random forest model 
+- ANN, Random forest, KNN and Gradient boosting models were used
+- The best score was 0.91 using ANN model 
